@@ -84,5 +84,12 @@ DUNcore contract. It aims to bring out its reliability and stability before its 
 network. The most important tests here are the operations that a user would execute. Critical 
 scenarios like liquidations guarantee the long-term viability of the Stablecoin system.
 
+**Team Members**
+
+1.Yash Garg
+
+2.Aditya Prakhar
+
+3.Anisha Saini
 
 
